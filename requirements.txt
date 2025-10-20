@@ -1,0 +1,34 @@
+# Network Security Education Toolkit Requirements
+# Python 3.7+ required
+
+# Core dependencies (usually included with Python)
+# socket - for network operations
+# threading - for concurrent operations
+# subprocess - for system commands
+# ipaddress - for IP address manipulation
+# ssl - for SSL/TLS operations
+# json - for data serialization
+# os - for system operations
+# sys - for system-specific parameters
+# time - for timing operations
+# datetime - for date/time operations
+# argparse - for command-line argument parsing
+
+# Optional dependencies for enhanced functionality
+# Install with: pip install -r requirements.txt
+
+# For advanced network operations (optional)
+# scapy>=2.4.5
+
+# For web-based vulnerability testing (optional)
+# requests>=2.25.1
+
+# For enhanced terminal output (optional)
+# colorama>=0.4.4
+
+# For network protocol analysis (optional)
+# python-nmap>=0.6.1
+
+# Note: This toolkit is designed to work with Python standard library
+# to ensure maximum compatibility and minimal dependencies.
+# Optional packages enhance functionality but are not required.
