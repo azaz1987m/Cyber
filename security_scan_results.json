@@ -1,0 +1,8 @@
+{
+  "target": "192.168.32.130",
+  "scan_time": "2025-10-20T12:53:50.793397",
+  "open_ports": [],
+  "http_security": {},
+  "ssl_configuration": {},
+  "vulnerabilities": []
+}
